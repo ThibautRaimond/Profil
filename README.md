@@ -5,7 +5,7 @@ A passionate Fullstack Developper from Lille.
 - 💬 Would like to find a Dev work.
 - 📫 How to reach me: raimond.thibaut@gmail.com
 
-Projects : 
+### Projects : 
 - [LeCodeDuDev'](https://yannou.philoucorp.fr/) , as a team. Stacks : EJS, CSS,  PostregreSQL, Express, NodeJS, DattaMapper. 
 Complete CRUD and work with AGILE method. 
 
