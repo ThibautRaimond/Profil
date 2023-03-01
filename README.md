@@ -15,3 +15,4 @@ Complete CRUD and work with AGILE method.
 Check my portfolio to learn more about me:
 https://thibautraimond.github.io/portfolio/
 
+Thank you for your visit :)
