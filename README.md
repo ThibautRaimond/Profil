@@ -6,7 +6,7 @@ Projects :
 - [LeCodeDuDev'](https://yannou.philoucorp.fr/) , as a team. Stacks : EJS, CSS,  PostregreSQL, Express, NodeJS, DattaMapper. 
 Complete CRUD and work with AGILE method. 
 
-- [Pokedex'](https://thibautraimond.github.io/pokedex/) , solo work. Stacks: React-JS ; API management.
+- [Pokedex](https://thibautraimond.github.io/pokedex/) , solo work. Stacks: React-JS ; API management.
 
 - 🌱 I’m currently work on my dev skills.
 - 💬 Would like to find a Dev work.
