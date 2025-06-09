@@ -1,18 +1,39 @@
 ### Hi there, I'm Thibaut 👋
-A passionate Fullstack Developper from Lille.
 
-- 🌱 I’m currently work on my dev skills.
-- 💬 Would like to find a Dev work.
-- 📫 How to reach me: raimond.thibaut@gmail.com
+🎯 Digital accessibility consultant, passionate about inclusive web and accessible user experiences.  
+💻 Front-end developer with a strong focus on usability, design systems, and accessibility (a11y).  
+📍 Based in Lille, France.
 
-### Projects : 
-- [LeCodeDuDev'](https://yannou.philoucorp.fr/) , as a team. Stacks : EJS, CSS,  PostregreSQL, Express, NodeJS, DattaMapper. 
-Complete CRUD and work with AGILE method. 
+---
 
-- [Pokedex](https://thibautraimond.github.io/pokedex/) , solo work. Stacks: React-JS ; API management.
+### 🛠️ Core Skills
 
-Check my portfolio to learn more about me:
-https://thibautraimond.github.io/portfolio/
+- Semantic HTML / ARIA
+- CSS / SCSS / Tailwind
+- JavaScript / TypeScript
+- React / Vue
+- Accessibility audits (WCAG, RGAA)
+- Agile methodologies & teamwork
 
+---
 
-### Thank you for your visit :slightly_smiling_face:
+### 🚀 Featured Projects
+
+- [LeCodeDuDev'](https://yannou.philoucorp.fr/)  
+  Team project. Stack: EJS, CSS, PostgreSQL, Express, Node.js.  
+  🌐 Full-stack CRUD app built with agile collaboration.
+
+- [Pokedex](https://thibautraimond.github.io/pokedex/)  
+  Solo project. Stack: React, external API.  
+  🔍 Dynamic UI with API integration and state management.
+
+---
+
+### 📫 Get in touch
+
+raimond.thibaut@gmail.com  
+👉 [Portfolio website](https://thibautraimond.github.io/portfolio/)
+
+---
+
+### Thanks for visiting! 😊
